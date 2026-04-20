@@ -1,22 +1,20 @@
-<div align="center">
+<!-- 🔥 HEADER FANTASY ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:00C9FF&height=220&section=header&text=Amjad%20Hafiz&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-
-<br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=a217d&style=flat&color=blue)
-
-</div>
+<!-- ✨ TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=32&center=true&vCenter=true&width=700&lines=Amjad+Hafiz;C%2B%2B+Developer;Web+Developer;Cybersecurity+Learner;Future+Software+Engineer" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 Computer Science student passionate about programming and cybersecurity.  
-Focused on building real-world projects using **C++** and **web technologies**.  
-Continuously improving to become a professional developer.
+Focused on building real-world systems using **C++ and Web Technologies**.  
+Always improving to become a professional developer.
 
 ---
 
@@ -29,61 +27,64 @@ Continuously improving to become a professional developer.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🍽️ Restaurant Website (Legend Series)
-- Branding + Website using HTML, CSS, JavaScript
-- Responsive and modern UI
-- 🔗 https://github.com/a217d/Restaurant-project
+### 💳 E-Wallet System (C++)
+Digital wallet system built using C++  
+- Balance management  
+- Transactions system  
+- Secure logic design  
+🔗 https://github.com/a217d/wallet-project1
 
 ---
 
-### 💳 E-Wallet System (C++)
-- Digital wallet logic system using C++
-- Handles transactions and balance management
-- 🔗 https://github.com/a217d/wallet-project1
+### 🍽️ Restaurant Website
+Modern responsive website using HTML, CSS, JavaScript  
+- Clean UI design  
+- Responsive layout  
+- Interactive elements  
+🔗 https://github.com/a217d/Restaurant-project
 
 ---
 
 ### 🧠 C++ Projects Collection
-- Collection of problem-solving and logic-building programs
-- 🔗 https://github.com/a217d/projects_cpp
+Logic building & problem-solving programs in C++  
+🔗 https://github.com/a217d/projects_cpp
 
 ---
 
 ## 🔐 Cybersecurity Journey
 
-- Completed **Basic Security** path on TryHackMe  
-- Currently learning **Web Exploitation**  
-- Practicing Linux and networking  
+- Completed Basic Security (TryHackMe)  
+- Learning Web Exploitation  
+- Practicing Linux & Networking fundamentals  
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=a217d&show_icons=true&theme=tokyonight" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a217d&layout=compact&theme=tokyonight&langs_count=6" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=a217d&show_icons=true&theme=tokyonight" width="48%"/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a217d&layout=compact&theme=tokyonight&langs_count=6" width="48%"/>
+
+</p>
 
 ---
 
 ## 🎯 Goal
 
-To become a professional software developer and cybersecurity specialist,  
-and work in a tech company within the next 2 years.
+Become a professional Software Engineer & Cybersecurity specialist  
+and join a tech company within the next 2 years.
 
 ---
 
-## 📫 Contact
+## ⚡ Final Touch (Legend Effect)
 
-- GitHub: https://github.com/a217d
-
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:00599C&height=100&section=footer"/>
+</p>
