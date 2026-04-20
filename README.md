@@ -1,11 +1,13 @@
-<!-- 🔥 HEADER FANTASY ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C9FF&height=250&section=header&text=Amjad%20Hafiz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- ✨ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=32&center=true&vCenter=true&width=700&lines=Amjad+Hafiz;C%2B%2B+Developer;Web+Developer;Cybersecurity+Learner;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=28&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Web+Developer;Cybersecurity+Learner;Future+Software+Engineer" />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=a217d&style=flat&color=00599C&label=PROFILE+VIEWS" />
+</p>
+
 </p>
 
 ---
