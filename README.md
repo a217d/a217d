@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Welcome%20to%20a217d%20World&fontSize=40&animation=fadeIn" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Welcome%20to%20Amjad%20Hafiz%20World&fontSize=40&animation=fadeIn" alt="Header" />
 
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 ```cpp
-// الملف الشخصي للمبرمج a217d
+// الملف الشخصي للمبرمج: أمجد حافظ (a217d)
 
 class DeveloperProfile extends Me { 
   const coreTechStack = {  
@@ -33,7 +33,7 @@ class DeveloperProfile extends Me {
   };
 }
 ✨ نبذة عني (About Me)
-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   أنا مبرمج وطالب علوم حاسوب، محقق معدل 89.85% في سنتي الأولى. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   أنا أمجد حافظ، مبرمج وطالب علوم حاسوب، محقق معدل 89.85% في سنتي الأولى. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    مهتم جداً بأنظمة GNU/Linux والأمن السيبراني.
@@ -42,7 +42,7 @@ class DeveloperProfile extends Me {
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   يمكنك سؤالي عن C++، تطوير الويب، أو صيانة أنظمة الطاقة الشمسية.
 
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    حقيقة ممتعة: أحب تصميم الشعارات (مثل سلسلة الأسطورة) وتنسيق الألوان.
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    حقيقة ممتعة: أحب دقة التصميم وتنسيق الألوان في الواجهات.
 
 
 <div align="center" >
@@ -62,7 +62,7 @@ Code Life Cycle
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Fixed!"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works! No idea how!"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works!"/>
 
 
 </div>
