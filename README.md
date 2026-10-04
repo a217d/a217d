@@ -26,9 +26,12 @@ Always improving to become a professional developer.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
+
 
 ---
 
@@ -43,12 +46,12 @@ Digital wallet system built using C++
 
 ---
 
-### 🍽️ Restaurant Website
-Modern responsive website using HTML, CSS, JavaScript  
-- Clean UI design  
-- Responsive layout  
-- Interactive elements  
-🔗 https://github.com/a217d/Restaurant-project
+### 🍽️ Full-Stack Restaurant Management System
+Full-stack web application built using PHP, MySQL, HTML5, CSS3, and JavaScript  
+- User Authentication & Registration (PDO & BCrypt Hashing)  
+- Interactive Food Menu, Shopping Cart & Order Processing  
+- Secure Database Operations with Prepared Statements  
+🔗 https://github.com/a217d/fullstack-restaurant-system
 
 ---
 
