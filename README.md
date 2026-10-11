@@ -20,7 +20,6 @@ Always improving to become a professional developer.
 
 ---
 
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
